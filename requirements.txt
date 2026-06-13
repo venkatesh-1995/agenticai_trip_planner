@@ -4,3 +4,8 @@ langchain-core
 langgraph
 fastapi
 uvicorn
+pydantic
+f
+requests
+langchain_tavily
+langchain_groq
